@@ -1,5 +1,14 @@
 # Project Euler — Algorithmic Number Theory Solutions
 
+<div align="center">
+
+[![CI Verified](https://github.com/Amanatar/Project_euler/actions/workflows/ci-verify.yml/badge.svg)](https://github.com/Amanatar/Project_euler/actions)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![SymPy](https://img.shields.io/badge/SymPy-1.12+-green?logo=sympy&logoColor=white)](https://sympy.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+</div>
+
 Computational number theory, prime factorization routines, modular arithmetic, dynamic programming, and combinatorial algorithms solving Project Euler problems 0 through 26 in pure Python.
 
 ## Problem Domains Covered
